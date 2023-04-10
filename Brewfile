@@ -151,6 +151,7 @@ cask suspicious-package
 cask timer
 cask virtualbox
 cask vivaldi
+cask warp
 cask webpquicklook
 
 tap beeftornado/rmtree

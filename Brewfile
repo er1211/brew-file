@@ -2,15 +2,21 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
+brew automake
 brew bdw-gc
+brew bison
+brew boost
 brew brotli
 brew ca-certificates
 brew cairo
 brew cask
+brew cmake
 brew coreutils
 brew curl
 brew dash
 brew emacs
+brew expat
 brew fontconfig
 brew fontforge
 brew freetype
@@ -23,22 +29,23 @@ brew git
 brew glib
 brew gmp
 brew gnutls
+brew go
 brew gobject-introspection
 brew graphite2
 brew guile
 brew harfbuzz
 brew highlight
-brew icu4c
+brew icu4c@77
 brew jansson
 brew jpeg
 brew jpeg-turbo
 brew jq
 brew libevent
 brew libffi
+brew libgit2
 brew libidn2
 brew libnghttp2
 brew libpng
-brew libpthread-stubs
 brew libspiro
 brew libssh2
 brew libtasn1
@@ -52,15 +59,21 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew llvm
 brew lua
 brew lz4
+brew lzip
 brew lzo
 brew m4
 brew mackup
 brew mas
+brew meson
 brew mpdecimal
+brew nasm
 brew ncurses
 brew nettle
+brew ninja
+brew oh-my-posh
 brew oniguruma
 brew openldap
 brew openssl@1.1
@@ -71,23 +84,33 @@ brew pcre
 brew pcre2
 brew peco
 brew pixman
-brew pkg-config
+brew pkgconf
 brew popt
+brew python-setuptools
 brew python@3.10
 brew python@3.11
+brew python@3.12
+brew python@3.13
 brew python@3.9
 brew readline
 brew rsync
 brew rtmpdump
+brew rust
 brew six
 brew sqlite
+brew swig
+brew texinfo
 brew tree
+brew tree-sitter
 brew unbound
+brew util-macros
 brew woff2
 brew xorgproto
+brew xtrans
 brew xxhash
 brew xz
 brew youtube-dl
+brew z3
 brew zsh
 brew zsh-completions
 brew zstd
@@ -109,13 +132,14 @@ cask coteditor
 cask coverload
 cask deepl
 cask dropbox
-cask duet
 cask duplicate-file-finder
+cask elmedia-player
 cask evernote
 cask firefox
 cask fluid
+cask font-m+-nerd-font
+cask font-meslo-lg-nerd-font
 cask fontforge
-cask foobar2000
 cask gimp
 cask github
 cask google-chrome
@@ -132,7 +156,6 @@ cask microsoft-auto-update
 cask microsoft-office
 cask musicbrainz-picard
 cask onyx
-cask popclip
 cask qlcolorcode
 cask qlimagesize
 cask qlmarkdown
@@ -150,26 +173,19 @@ cask splashtop-streamer
 cask suspicious-package
 cask timer
 cask virtualbox
+cask visual-studio-code
 cask vivaldi
 cask warp
 cask webpquicklook
 
+tap homebrew/cask-fonts
+
 tap beeftornado/rmtree
+
+tap jandedobbeleer/oh-my-posh
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
 cask diskwave
-
-# App Store applications
-appstore 1193539993  Brother iPrint&Scan  (10.2.0)
-appstore 1026349850  Copied               (4.0.1)
-appstore 417099859   Data Tape 3          (3.1.1)
-appstore 1031826818  Duplicate Finder     (1.4.3)
-appstore 408981434   iMovie               (10.3.5)
-appstore 539883307   LINE                 (7.14.1)
-appstore 409203825   Numbers              (12.2.1)
-appstore 568494494   Pocket               (1.8.7)
-appstore 497799835   Xcode                (14.2)
-appstore 914708191   顔文字                  (2.2.1)

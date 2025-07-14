@@ -121,6 +121,7 @@ cask alfred
 cask amorphousdiskmark
 cask apparency
 cask appcleaner
+cask bettertouchtool
 cask betterzip
 cask beyond-compare
 cask cakebrew
@@ -130,7 +131,6 @@ cask clipy
 cask controllermate
 cask coteditor
 cask coverload
-cask deepl
 cask dropbox
 cask duplicate-file-finder
 cask elmedia-player
@@ -167,7 +167,6 @@ cask quicklook-json
 cask quicklookase
 cask raycast
 cask setapp
-cask skitch
 cask sourcetree
 cask splashtop-streamer
 cask suspicious-package
@@ -178,8 +177,6 @@ cask vivaldi
 cask warp
 cask webpquicklook
 
-tap homebrew/cask-fonts
-
 tap beeftornado/rmtree
 
 tap jandedobbeleer/oh-my-posh
@@ -189,3 +186,4 @@ brew brew-file
 
 # Other Cask applications
 cask diskwave
+cask skitch

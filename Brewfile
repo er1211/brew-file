@@ -131,15 +131,18 @@ cask clipy
 cask controllermate
 cask coteditor
 cask coverload
+cask deepl
 cask dropbox
 cask duplicate-file-finder
 cask elmedia-player
+cask eul
 cask evernote
 cask firefox
 cask fluid
 cask font-m+-nerd-font
 cask font-meslo-lg-nerd-font
 cask fontforge
+cask geektool
 cask gimp
 cask github
 cask google-chrome
@@ -171,6 +174,7 @@ cask sourcetree
 cask splashtop-streamer
 cask suspicious-package
 cask timer
+cask ubersicht
 cask virtualbox
 cask visual-studio-code
 cask vivaldi
@@ -187,3 +191,15 @@ brew brew-file
 # Other Cask applications
 cask diskwave
 cask skitch
+
+# App Store applications
+appstore 1193539993 Brother iPrint&Scan (10.5.0)
+appstore 1026349850 Copied (4.0.1)
+appstore 417099859 Data Tape 3 (3.1.1)
+appstore 1031826818 DuplicateFilesCleaner (1.4.3)
+appstore 408981434 iMovie (10.3.5)
+appstore 914708191 Kaomoji Lover (2.2.1)
+appstore 539883307 LINE (7.16.1)
+appstore 409203825 Numbers (13.0)
+appstore 568494494 Pocket (1.8.7)
+appstore 497799835 Xcode (14.2)

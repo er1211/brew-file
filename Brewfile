@@ -73,6 +73,8 @@ brew nasm
 brew ncurses
 brew nettle
 brew ninja
+brew node-build
+brew nodenv
 brew oh-my-posh
 brew oniguruma
 brew openldap
@@ -151,6 +153,7 @@ cask imageoptim
 cask iterm2
 cask jupyter-notebook-ql
 cask karabiner-elements
+cask keyclu
 cask lyrics-master
 cask memory-cleaner
 cask mi
@@ -169,6 +172,7 @@ cask quicklook-csv
 cask quicklook-json
 cask quicklookase
 cask raycast
+cask responsively
 cask setapp
 cask sourcetree
 cask splashtop-streamer

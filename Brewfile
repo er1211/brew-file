@@ -143,6 +143,7 @@ cask firefox
 cask fluid
 cask font-m+-nerd-font
 cask font-meslo-lg-nerd-font
+cask fontbase
 cask fontforge
 cask geektool
 cask gimp
@@ -198,7 +199,6 @@ cask skitch
 
 # App Store applications
 appstore 1193539993 Brother iPrint&Scan (10.5.0)
-appstore 1026349850 Copied (4.0.1)
 appstore 417099859 Data Tape 3 (3.1.1)
 appstore 1031826818 DuplicateFilesCleaner (1.4.3)
 appstore 408981434 iMovie (10.3.5)

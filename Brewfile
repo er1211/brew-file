@@ -3,16 +3,32 @@
 
 tap homebrew/core
 brew ca-certificates
+brew cask
+brew coreutils
+brew emacs
+brew gettext
+brew gh
+brew gmp
+brew gnutls
+brew libevent
+brew libidn2
+brew libnghttp2
+brew libtasn1
+brew libunistring
 brew mackup
 brew mas
 brew mpdecimal
 brew ncurses
+brew nettle
 brew oh-my-posh
 brew openssl@3
+brew p11-kit
 brew pcre2
 brew python@3.13
 brew readline
 brew sqlite
+brew tree-sitter
+brew unbound
 brew xz
 brew zsh
 brew zsh-completions
@@ -21,27 +37,39 @@ tap homebrew/cask
 cask 1password
 cask apparency
 cask appcleaner
+cask applite
+cask azookey
 cask bettertouchtool
 cask carbon-copy-cloner
 cask clipy
 cask coteditor
+cask coverload
 cask deepl
 cask dropbox
 cask font-m+-nerd-font
 cask font-meslo-lg-nerd-font
+cask fontforge-app
+cask gimp
 cask github
 cask google-japanese-ime
+cask imageoptim
 cask karabiner-elements
 cask keyclu
+cask lyrics-master
 cask memory-cleaner
+cask microsoft-auto-update
+cask microsoft-office
+cask musicbrainz-picard
 cask onyx
 cask qlstephen
 cask qlvideo
 cask quicklook-csv
 cask quicklook-json
 cask quicklookase
+cask raycast
 cask responsively
 cask setapp
+cask showyedge
 cask splashtop-streamer
 cask visual-studio-code
 cask vivaldi
@@ -56,12 +84,4 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1193539993 Brother iPrint&Scan (10.5.0)
-appstore 417099859 Data Tape 3 (3.1.1)
-appstore 1031826818 DuplicateFilesCleaner (1.4.3)
-appstore 408981434 iMovie (10.3.5)
-appstore 914708191 Kaomoji Lover (2.2.1)
-appstore 539883307 LINE (7.16.1)
-appstore 409203825 Numbers (13.0)
-appstore 568494494 Pocket (1.8.7)
-appstore 497799835 Xcode (26.0.1)
+appstore 967805235 Paste (6.0.3)

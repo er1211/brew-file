@@ -61,6 +61,7 @@ cask microsoft-auto-update
 cask microsoft-office
 cask musicbrainz-picard
 cask onyx
+cask phoenix-code
 cask qlstephen
 cask qlvideo
 cask quicklook-csv
@@ -84,4 +85,4 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 967805235 Paste (6.0.3)
+appstore 967805235 Paste (6.1.0)

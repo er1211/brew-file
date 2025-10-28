@@ -2,6 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew brotli
+brew c-ares
 brew ca-certificates
 brew cask
 brew coreutils
@@ -10,28 +12,37 @@ brew gettext
 brew gh
 brew gmp
 brew gnutls
+brew icu4c@77
 brew libevent
 brew libidn2
 brew libnghttp2
+brew libnghttp3
+brew libngtcp2
 brew libtasn1
 brew libunistring
+brew libuv
+brew lz4
 brew mackup
 brew mas
 brew mpdecimal
 brew ncurses
 brew nettle
+brew node
 brew oh-my-posh
 brew openssl@3
 brew p11-kit
 brew pcre2
 brew python@3.13
 brew readline
+brew simdjson
 brew sqlite
 brew tree-sitter
 brew unbound
+brew uvwasi
 brew xz
 brew zsh
 brew zsh-completions
+brew zstd
 
 tap homebrew/cask
 cask 1password

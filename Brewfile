@@ -33,6 +33,7 @@ brew openssl@3
 brew p11-kit
 brew pcre2
 brew python@3.13
+brew python@3.14
 brew readline
 brew simdjson
 brew sqlite

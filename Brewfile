@@ -42,7 +42,6 @@ cask syntax-highlight
 cask visual-studio-code
 cask vivaldi
 cask warp
-cask webpquicklook
 
 tap rcmdnk/file
 brew brew-file

@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew powerlevel10k
+brew zsh-completions
 
 tap homebrew/cask
 cask 1password
